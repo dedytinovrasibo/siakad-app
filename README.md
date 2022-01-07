@@ -17,7 +17,6 @@ SIAKAD-APP adalah sistem informasi akademik berbasis web, sistem informasi akade
 -   Framework using Laravel 8
 -   Database using MySql
 -   Build on Localhost using XAMPP
--   Authentication using JWT Token
 -   CSS framework using Bootstrap
 -   UI Template using [Stisla](https://github.com/stisla/stisla)
 
